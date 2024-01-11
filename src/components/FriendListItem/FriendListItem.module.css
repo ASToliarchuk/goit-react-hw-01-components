@@ -5,7 +5,7 @@
   align-items: center;
   padding: 6px 10px;
   background-color: #fff;
-  box-shadow: 2px 2px 2px 0px rgba(157, 157, 157, 0.5);
+  box-shadow: 2px 2px 2px 2px rgba(157, 157, 157, 0.5);
 }
 .item:not(:last-child) {
   margin-bottom: 8px;
